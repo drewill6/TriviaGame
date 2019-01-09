@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/muscle.jpeg");
+    background-size: contain;
+    background-repeat: repeat;
+    color: Orange;
+    text-align: center;
+}
+
+.btn {
+    color: Orange;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 12pt;
+}
+
+button {
+  color: black;
+  border: 2px solid orange;
+  text-align: center;
+  border-radius: 10px;
+  background-color: orange;
+  font-size: 12pt;
+}
+
+container {
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
